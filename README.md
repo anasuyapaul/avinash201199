@@ -19,7 +19,7 @@
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, meditation.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 ✉️ &nbsp;You can email me at anasuyapaul26@gmail.com.\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) for more details about my work experience.
+
 
 
 
