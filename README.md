@@ -18,7 +18,7 @@
 🌱 &nbsp;I'm on track for learning more about Python(Django) , HTML & CSS and JAVA SCRIPT.\
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, meditation.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at anasuyapaul26@gmail.com.\
+✉️ &nbsp;You can email me at anasuyapaul26@gmail.com.
 
 
 
