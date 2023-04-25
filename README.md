@@ -13,10 +13,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2023 pass out final year student  with BTech CSE. Love to code  , exploring Cloud Computing these days. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hello everyone,I'm 2023 pass out final year student with BTech CSE. I am passionate about data analytics and have a deep love for data and visualize the data  , exploring Cloud Computing also these days. I enjoy collaborating with people on works of similar interest. 
 
-🌱 &nbsp;I'm on track for learning more about Python(Django) , HTML & CSS and JAVA SCRIPT.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, meditation.\
+🌱 &nbsp;I'm on track for learning more about Python, Excel, Power BI and SQL. \
+✍️ &nbsp;Apart from technical interests, I like dancing, meditation and excersise.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 ✉️ &nbsp;You can email me at anasuyapaul26@gmail.com.
 
